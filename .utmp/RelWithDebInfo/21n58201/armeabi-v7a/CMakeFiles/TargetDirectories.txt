@@ -1,0 +1,5 @@
+C:/Users/Admin/Downloads/ARLearning/.utmp/RelWithDebInfo/21n58201/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Downloads/ARLearning/.utmp/RelWithDebInfo/21n58201/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Downloads/ARLearning/.utmp/RelWithDebInfo/21n58201/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/Admin/Downloads/ARLearning/.utmp/RelWithDebInfo/21n58201/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Downloads/ARLearning/.utmp/RelWithDebInfo/21n58201/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
